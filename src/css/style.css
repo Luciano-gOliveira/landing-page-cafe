@@ -1,6 +1,7 @@
 
 html {
   font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -22,7 +23,7 @@ body {
 }
 
 .cabecalho .logo h1 {
-  font-size: 0;
+  display: none;
 }
 
 .cabecalho nav {
